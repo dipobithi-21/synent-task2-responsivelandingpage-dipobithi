@@ -49,3 +49,5 @@ BlushCarry - Fashion Landing Page
 
 Author
 Dipobithi Das
+
+DEMO VIDEO LINK - https://youtu.be/EoZXPr69vVI?si=3x0NP9XQ9R40a6Wy
